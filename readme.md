@@ -4,7 +4,7 @@
 
 ## Check the live link.
 
-[Resturant hero section](https://competition-hero-section.vercel.app/)
+[Hero section](https://competition-hero-section.vercel.app/)
 
 ![badge](https://img.shields.io/badge/Vercel-Vercel-green)
  
